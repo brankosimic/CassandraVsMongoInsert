@@ -1,0 +1,11 @@
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\bin\Debug\netcoreapp2.1\CassandraVsMongoInsert.deps.json
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\bin\Debug\netcoreapp2.1\CassandraVsMongoInsert.runtimeconfig.json
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\bin\Debug\netcoreapp2.1\CassandraVsMongoInsert.runtimeconfig.dev.json
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\bin\Debug\netcoreapp2.1\CassandraVsMongoInsert.dll
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\bin\Debug\netcoreapp2.1\CassandraVsMongoInsert.pdb
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.csprojAssemblyReference.cache
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.csproj.CoreCompileInputs.cache
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.AssemblyInfoInputs.cache
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.AssemblyInfo.cs
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.dll
+C:\Users\Branko\source\repos\CassandraVsMongoInsert\CassandraVsMongoInsert\obj\Debug\netcoreapp2.1\CassandraVsMongoInsert.pdb
