@@ -18,7 +18,7 @@ namespace CassandraVsMongoInsert
             RunCassandra(10000).GetAwaiter().GetResult();
             RunCassandra(100000).GetAwaiter().GetResult();
             RunCassandra(1000000).GetAwaiter().GetResult();
-
+            
             RunMongo(100).GetAwaiter().GetResult();
             RunMongo(1000).GetAwaiter().GetResult();
             RunMongo(10000).GetAwaiter().GetResult();
@@ -49,7 +49,7 @@ namespace CassandraVsMongoInsert
             using (var session = cluster.Connect("keyspace1"))
             {
                 var statement = session.Prepare("INSERT INTO table1(col0,col1,col2,col3,col4) VALUES (?,?,?,?,?)");
-                var guids = Enumerable.Repeat(Guid.NewGuid(), usersNumber).ToList();
+                var guids = Enumerable.Repeat(1, usersNumber).Select(x => Guid.NewGuid()).ToList();
 
                 var stopwatch = Stopwatch.StartNew();
 
